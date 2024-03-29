@@ -1,0 +1,28 @@
+{
+  "name": "sit725",
+  "version": "1.0.0",
+  "description": "package json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JetRam/SIT0725-2024-T1-practice.git"
+  },
+  "keywords": [
+    "2.2",
+    "task"
+  ],
+  "author": "Jethro Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JetRam/SIT0725-2024-T1-practice/issues"
+  },
+  "homepage": "https://github.com/JetRam/SIT0725-2024-T1-practice#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {}
+}
